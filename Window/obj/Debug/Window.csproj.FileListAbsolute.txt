@@ -1,0 +1,11 @@
+D:\Chnu\Summer\Window\bin\Debug\Window.exe.config
+D:\Chnu\Summer\Window\bin\Debug\Window.exe
+D:\Chnu\Summer\Window\bin\Debug\Window.pdb
+D:\Chnu\Summer\Window\obj\Debug\Window.csproj.AssemblyReference.cache
+D:\Chnu\Summer\Window\obj\Debug\Window.csproj.SuggestedBindingRedirects.cache
+D:\Chnu\Summer\Window\obj\Debug\Window.Form1.resources
+D:\Chnu\Summer\Window\obj\Debug\Window.Properties.Resources.resources
+D:\Chnu\Summer\Window\obj\Debug\Window.csproj.GenerateResource.cache
+D:\Chnu\Summer\Window\obj\Debug\Window.csproj.CoreCompileInputs.cache
+D:\Chnu\Summer\Window\obj\Debug\Window.exe
+D:\Chnu\Summer\Window\obj\Debug\Window.pdb
